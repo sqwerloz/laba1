@@ -1,2 +1,2 @@
 # laba1
-Hello, me name is Dima
+Hello, my name is Dima
